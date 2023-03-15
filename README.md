@@ -12,6 +12,13 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 
 ## GPT-4 Usecases
 
+### Education
+
+- [GPT-4's performance in standardised exams](https://twitter.com/DrJimFan/status/1635694095460102145)
+- [Duolingo integrated with GPT-4](https://twitter.com/duolingo/status/1635688521695633408)
+- [Read & understand entire wikipedia article](https://twitter.com/keithpeiris/status/1635744012081729536)
+- [Generate a passage for a novel](https://twitter.com/mathemagic1an/status/1635715029453660161)
+
 ### Game Design
 
 - [Generate a ping-pong game in 60 seconds](https://twitter.com/skirano/status/1635736107949195278)
