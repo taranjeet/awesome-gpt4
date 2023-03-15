@@ -30,6 +30,10 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 - [Generate Kodak Portra 400 Film Emulation preset for Lightroom](https://twitter.com/stalman/status/1635847396612800513)
 - [Image recognition](https://twitter.com/heyBarsee/status/1635884856134729730)
 
+### Legal
+
+- [Generate one-click lawsuits](https://twitter.com/jbrowder1/status/1635720431091974157)
+
 ### Programming
 
 - [Create Google Chrome extension](https://twitter.com/jakebrowatzke/status/1635882037319008258)
@@ -40,4 +44,6 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 - [Generate iOS app for movie recommendation](https://twitter.com/mortenjust/status/1636001311417319426)
 - [Create BibTex entry](https://twitter.com/random_walker/status/1636039756864712706)
 - [Create a Nomad List Website](https://twitter.com/levelsio/status/1635994524286881792)
-- [Creating a Website from a handdrawn sketch](https://twitter.com/rowancheung/status/1635744529587359756)
+- [Creating a Website from a hand drawn sketch](https://twitter.com/rowancheung/status/1635744529587359756)
+- [Proof check a etherum contract](https://twitter.com/jconorgrogan/status/1635695064692273161)
+- [Analyse and understand a TEAL contract](https://twitter.com/joe_polny/status/1635981448741044227)
