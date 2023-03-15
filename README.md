@@ -12,6 +12,18 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 
 ## GPT-4 Usecases
 
+### Game Design
+
+- [Generate a ping-pong game in 60 seconds](https://twitter.com/skirano/status/1635736107949195278)
+- [Generating a snake game with zero experience](https://twitter.com/ammaar/status/1635754631228952576)
+- [Generate a connect 4 game ](https://twitter.com/firekeeping/status/1635789118239023106)
+- [Create a colored game of life on WebGL](https://twitter.com/felixbade/status/1635799243628892160)
+- [Create the platform game "Ethereum in Bitcoin land"](https://twitter.com/kristoferlund/status/1635923260058611713)
+- [Give a formal structure to an adventure game and then execute it](https://twitter.com/mariots/status/1635824794233913344)
+- [Programming a Tetris game in HTML](https://twitter.com/javilopen/status/1635990860012883968)
+- [Generate functional game mashup between Pong and Game of Life](https://twitter.com/stanislavfort/status/1635965177010040833)
+- [Develop a functional snake pong game](https://twitter.com/thekitze/status/1635985385288265728)
+
 ### Image
 
 - [Draw objects](https://twitter.com/aron_brand/status/1635928147668488192)
@@ -28,3 +40,4 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 - [Generate iOS app for movie recommendation](https://twitter.com/mortenjust/status/1636001311417319426)
 - [Create BibTex entry](https://twitter.com/random_walker/status/1636039756864712706)
 - [Create a Nomad List Website](https://twitter.com/levelsio/status/1635994524286881792)
+- [Creating a Website from a handdrawn sketch](https://twitter.com/rowancheung/status/1635744529587359756)
