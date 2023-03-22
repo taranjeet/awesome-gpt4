@@ -55,6 +55,7 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 ### Legal
 
 - [Generate one-click lawsuits](https://twitter.com/jbrowder1/status/1635720431091974157)
+- [Discuss legal cases by uploading a pdf of case details](https://twitter.com/mayowaoshin/status/1636165883876745217)
 
 ### Programming
 
