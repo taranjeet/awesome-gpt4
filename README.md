@@ -12,6 +12,15 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 
 ## GPT-4 Usecases
 
+### Business
+
+- [Customer Service revolutionized by Intercom](https://twitter.com/destraynor/status/1635705915595685902)
+- [New Bing running on GPT-4](https://twitter.com/yusuf_i_mehdi/status/1635709811840131072)
+- [KisanGPT to aid farmers with audio prompts](https://twitter.com/chheplo/status/1635774404453072896)
+- [New Businesses that can be built using GPT-4](https://twitter.com/rowancheung/status/1637530908184944643)
+- [Generate as much money as possible from $100](https://twitter.com/jacksonfall/status/1636107218859745286)
+- [Giving GPT-4 a $1 budget to build me a startup to sell for $500.](https://twitter.com/byhazellim/status/1636825301350006791)
+
 ### Education
 
 - [GPT-4's performance in standardised exams](https://twitter.com/DrJimFan/status/1635694095460102145)
