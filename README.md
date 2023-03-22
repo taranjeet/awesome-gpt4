@@ -70,6 +70,11 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 - [Creating a Website from a hand drawn sketch](https://twitter.com/rowancheung/status/1635744529587359756)
 - [Proof check a etherum contract](https://twitter.com/jconorgrogan/status/1635695064692273161)
 - [Analyse and understand a TEAL contract](https://twitter.com/joe_polny/status/1635981448741044227)
+- [Audit smart contracts using GPT4](https://twitter.com/syncswap/status/1636378811993571329)
+- [Design a small quantum computer](https://twitter.com/Looking_glass_u/status/1636643196985016320)
+- [Create a Facebook Messenger app using React](https://twitter.com/sawyerhood/status/1636607114440327170)
+- [Write coherent Solana programs](https://twitter.com/0xMert_/status/1636032640586317827)
+- [Create python "Wolverine" - give your python scripts regenerative healing abilities](https://twitter.com/bio_bootloader/status/1636880208304431104)
 
 ### Miscellaneous 
 
