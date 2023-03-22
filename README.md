@@ -40,6 +40,11 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 - [Generate functional game mashup between Pong and Game of Life](https://twitter.com/stanislavfort/status/1635965177010040833)
 - [Develop a functional snake pong game](https://twitter.com/thekitze/status/1635985385288265728)
 
+### Healthcare
+
+- [Drug discovery using gpt-4](https://twitter.com/danshipper/status/1635712019549786113)
+- [Build a basic automated medical coding system ](https://twitter.com/WillManidis/status/1636003225789956099)
+
 ### Image
 
 - [Draw objects](https://twitter.com/aron_brand/status/1635928147668488192)
