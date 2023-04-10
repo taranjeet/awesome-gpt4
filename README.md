@@ -75,6 +75,7 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 - [Create a Facebook Messenger app using React](https://twitter.com/sawyerhood/status/1636607114440327170)
 - [Write coherent Solana programs](https://twitter.com/0xMert_/status/1636032640586317827)
 - [Create python "Wolverine" - give your python scripts regenerative healing abilities](https://twitter.com/bio_bootloader/status/1636880208304431104)
+- [DoctorGPT brings GPT into production for error diagnosing](https://github.com/ingyamilmolinar/doctorgpt)
 
 ### Miscellaneous 
 
