@@ -2,6 +2,26 @@
 
 Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 
+Table of Contents
+
+- [GPT-4 General Resources](#gpt-4-general-resources)
+- [GPT-4 New Feature Demos](#gpt-4-new-feature-demos)
+    - [Assistant API](#assistant-api)
+    - [Customizable GPTs](#customizable-gpts)
+    - [GPT-4 Vision](#gpt-4-vision)
+    - [GPT-4 Vision + TTS API](#gpt-4-vision--tts-api)
+    - [GPT-4 Turbo](#gpt-4-turbo)
+    - [Integrated API](#integrated-api)
+    - [TTS API](#tts-api)
+- [GPT-4 Usecases](#gpt-4-usecases)
+    - [Business](#business)
+    - [Education](#education)
+    - [Game Design](#game-design)
+    - [Healthcare](#healthcare)
+    - [Image](#image)
+    - [Legal](#legal)
+    - [Programming](#programming)
+    - [Miscellaneous](#miscellaneous)
 
 ## GPT-4 General Resources
 
