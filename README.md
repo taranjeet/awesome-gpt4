@@ -10,6 +10,65 @@ Awesome GPT-4 is a collection of demos, articles and usecases for OpenAI's GPT-4
 * [GPT-4 System Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
 * [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
 
+## GPT-4 New Feature Demos
+
+### Assistant API
+
+- [Building an AI resume analyser and scoring tool using OpenAI's new AI Assistants and GPT-4-1106](https://x.com/mayowaoshin/status/1721857915361820879) by Mayo Oshin
+- [Open-sourcing "GPTvsGPT"](https://x.com/yoheinakajima/status/1721769833212281231) by Yohei
+
+### Customizable GPTs
+
+- [Talk to any Youtube Video](https://x.com/atbeme/status/1721753092277117368) by swyx
+- [Twitter(X) optimizer GPT fine-tunes posts and finds the best time to post on Twitter(X)](https://x.com/rowancheung/status/1721644987044294961) by Rowan Cheung
+- [Video demo of the AI Doctor built using OpenAI GPTs](https://x.com/DrSerunjogiEmma/status/1722678780030779751) by Dr. Sserunjogi Emma
+- [The world's first chatGPT custom GPT agents; Quick demo of BabyAGI.txt and Agi.zip](https://x.com/NickADobos/status/1721777424348991802) by Nick Dobos
+
+### GPT-4 Vision
+
+- [Real-time poker suggestions with OpenAI & GPT-4v](https://x.com/mad_enrico/status/1723152168142733366) by mad_enrico
+- [Screenshot & Ask questions about ANYTHING; GPT4 Vision came browser](https://x.com/Karmedge/status/1721777152658444773) by Robert Lukoshko
+- [ChatGPT Vision with Yoga](https://x.com/Karmedge/status/1721894440967819285) by Robert Lukoshko
+- [Sharing screen with GPT-4](https://x.com/suneel_matham/status/1722538037551530069) by Suneel Matham
+- [Chat with the webcam using the GPT4 vision API](https://x.com/skalskip92/status/1721694286440468849) by SkalskiP
+- [Turn a wireframe into an HTML website instantly](https://x.com/sawyerhood/status/1721717738941698389) by Sawyer Hood
+- ["Roast my website" using GPT4 Vision API](https://twitter.com/marcelpociot/status/1721672359566799070) by Marcel Pociot
+- [Build a custom dashboard for your business using GPT4 Vision API and your data](https://x.com/SteveMoraco/status/1721683288576737612) by Steve Moraco
+- [Demo of the GPT-4 Vision API that I built in Bubble in 30 min](https://x.com/sethjkramer/status/1721662666056315294) by Seth Kramer
+- [GPT-4 Vision model did my Christmas shopping in 30 seconds. 🤯](https://x.com/olliethedev/status/1723076320920244522) by Ollie The Dev
+- [Recreated Wanderlust from the OpenAI DevDay demo](https://x.com/dane_albaugh/status/1722372740953342203) by Dane Albaugh
+- [Napkinmatic3D "Toy Ripper mode" lets you rip any product image into 3D printable parts](https://x.com/Yosun/status/1721892003041149434) by I. Yosun Chang
+- [I launched a full-stack AI application using the new OpenAI API tech](https://x.com/lucasrantzau/status/1721968588553134413) by Lucas Rantzau
+- [Read screenshots using GPT-4 vision](https://x.com/AdonAlternative/status/1721923633390534908) by AdonAlternative
+- [WebcamGPT: Actively recognize what's happening in real-time](https://x.com/BenjaminDEKR/status/1721716511247921277) by Benjamin De Kraker
+- [Use GPT-4 Vision to create a self-operating computer](https://x.com/josh_bickett/status/1721975391047589934) by Josh Bickett
+
+### GPT-4 Vision + TTS API
+
+- [GPT-4V + TTS = AI Sports narrator](https://x.com/geepytee/status/1721705524176257296) by Gonzalo Espinoza Graham
+- [E-sports commentator for League of Legends using GPT-4 Vision and Text-To-Speech API](https://x.com/pwang_szn/status/1721900523866214635) by Peter
+- [App that lets anyone automatically add voice-overs to their videos](https://x.com/taishik_/status/1723012545660047798) by Taishi
+- [Quick GPT4V + TTS demo to automatically generate product walk through voice over video from screen recording](https://x.com/jasonzhou1993/status/1721895326221828130) by Jason Zhou
+
+### GPT-4 Turbo
+
+- [The GPT4 Turbo demo is extremely fast](https://x.com/skirano/status/1721631144553091462) by Pietro Schirano
+- [The new GPT-4-Turbo is really fast](https://x.com/mattshumer_/status/1721644184120049997) by Matt Shumer
+- [Embed entire papers and books with GPT4 Turbo 128k token context window](https://x.com/_amankishore/status/1721647536312869040) by Aman Kishore
+- [Wow, ChatGPT new context window is AMAZING](https://x.com/rileybrown_ai/status/1721670852557627440) by Riley Brown
+
+### Integrated API 
+
+- [The new ChatGPT update just feels seamless. Switching modes was clunky.](https://x.com/bilawalsidhu/status/1721695090022678611) by Bilawal Sidhu
+- [Trend analyser GPT created in <90s](https://x.com/emollick/status/1721645215272824960) by Ethan Mollick
+- [Generate Avatars from ChatGPT](https://x.com/hakimel/status/1721809497457389678) by Hakim El Hattab
+
+### TTS API
+
+- [Leveraging OpenAI's latest speech models, created an NPC interaction in just a few minutes 🎮](https://x.com/angrypenguinPNG/status/1721738522607092185) by angrypenguinPNG
+- [Experimenting with OpenAI's new Text to Speech model 💬](https://x.com/angrypenguinPNG/status/1721660569332408336) by angrypenguinPNG
+
+
 ## GPT-4 Usecases
 
 ### Business
